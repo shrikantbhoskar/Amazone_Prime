@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: amazone-prime-container
-        image: mandhar12/amazon-prime
+        image: shrikant0786/amazon-prime:8
         ports:
         - containerPort: 3000
 ...
